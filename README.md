@@ -1,46 +1,34 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
 
 ### Languages
+![Java Badge](https://img.shields.io/badge/Java-1a1b27?logo=openjdk&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-1a1b27?logo=python&logoColor=fff&style=for-the-badge)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-1a1b27?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1a1b27?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-1a1b27?logo=javascript&logoColor=fff&style=for-the-badge)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-1a1b27?logo=typescript&logoColor=fff&style=for-the-badge)
+![PHP Badge](https://img.shields.io/badge/PHP-1a1b27?logo=php&logoColor=fff&style=for-the-badge)
+![C Badge](https://img.shields.io/badge/C-1a1b27?logo=c&logoColor=fff&style=for-the-badge)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-1a1b27?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![C# Badge](https://img.shields.io/badge/C%23-1a1b27?logo=csharp&logoColor=fff&style=for-the-badge)
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ### Technologies
+![Angular Badge](https://img.shields.io/badge/Angular-1a1b27?logo=angular&logoColor=fff&style=for-the-badge)
+![React Badge](https://img.shields.io/badge/React-1a1b27?logo=react&logoColor=fff&style=for-the-badge)
+![Node.js Badge](https://img.shields.io/badge/Node.js-1a1b27?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-1a1b27?logo=docker&logoColor=fff&style=for-the-badge)
+![Spring Badge](https://img.shields.io/badge/Spring-1a1b27?logo=spring&logoColor=fff&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-1a1b27?logo=mysql&logoColor=fff&style=for-the-badge)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-1a1b27?logo=postgresql&logoColor=fff&style=for-the-badge)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-1a1b27?logo=mongodb&logoColor=fff&style=for-the-badge)
+![Google Cloud Badge](https://img.shields.io/badge/GCP-1a1b27?logo=googlecloud&logoColor=fff&style=for-the-badge)
+![Amazon AWS Badge](https://img.shields.io/badge/AWS-1a1b27?logo=amazonaws&logoColor=fff&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-1a1b27?logo=linux&logoColor=fff&style=for-the-badge)
+![Windows Badge](https://img.shields.io/badge/Windows-1a1b27?logo=windows&logoColor=fff&style=for-the-badge)
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+### Contact
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-1a1b27?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/matheo-rio/)
 
-### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
-
-### Cybersecurity Projects
-
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
-
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+![Anurag's GitHub stats](https://github-statistics-xv3h.vercel.app/api?username=matheorio&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
